@@ -1,0 +1,17 @@
+# macOS
+.DS_Store
+
+# Models (large files)
+models/
+*.gguf
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Arduino
+*.elf
+*.hex
