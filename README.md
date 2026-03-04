@@ -12,11 +12,11 @@ Build an RC car controlled by a small local LLM (via llama.cpp) that understands
 
 **Phase 1: Basic RC control with push buttons**
 
-- Arduino Uno + L298N motor driver + 2 DC motors
-- Toggle buttons for forward/reverse/stop
-- Working circuit and firmware
+- [x] Arduino Uno + L298N motor driver + 2 DC motors
+- [x] Toggle buttons for forward/reverse/stop
 
-![Circuit Schematic](rc/skematic.png)
+![Circuit Schematic](rc/schematic.png)
+![Physical Circuit](rc/physical_circuit.jpg)
 
 | L298N Module | Arduino Pin | Function          |
 | ------------ | ----------- | ----------------- |
